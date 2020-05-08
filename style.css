@@ -1,0 +1,24 @@
+h1 {
+    color:blue
+}
+p {
+    color:green
+}
+body {
+    background: lightgrey
+}
+section {
+    background: orange
+}
+.hotpink-header {
+    color: hotpink;
+}
+#top {
+    background: rgb(0, 214, 252);
+}
+nav a {
+    color: lawngreen;
+}
+section a {
+    color: lightseagreen;
+}
